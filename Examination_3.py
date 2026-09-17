@@ -8,3 +8,7 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 price = float(input())
 is_member = int(input())
+is_member = 1
+print("ลดทันที10%")
+is_member = 0
+print("ไม่ได้รับส่วนลด")
